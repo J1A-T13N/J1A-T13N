@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @J1A-T13N
+- 👀 I’m interested in travel.
+- 🌱 I’m currently learning Program trading
