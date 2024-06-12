@@ -20,6 +20,11 @@
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | [Taiwan Real-time Earthquake Monitoring for Home Assistant](https://github.com/J1A-T13N/ha-trem) | ![stars_badge](https://img.shields.io/github/stars/J1A-T13N/ha-trem?label=) | [![release_badge](https://img.shields.io/github/v/release/J1A-T13N/ha-trem?label=)](https://github.com/J1A-T13N/ha-trem/releases/latest) | [![HACS Default][hacs_custom_shield]][hacs_custom] | [![Last commit](https://img.shields.io/github/last-commit/J1A-T13N/ha-trem?label=)](https://github.com/J1A-T13N/ha-trem) |
 
+## Contribute repository
+| Name | Change | Last PR |
+| :-----: | :-----: | :-----: |
+| [Earthquake early warning notify system](https://github.com/watermelon1024/EEW) | LINE BOT Flex Template | [2024/06/11](https://github.com/watermelon1024/EEW/commits?author=J1A-T13N) |
+
 <a href="https://www.buymeacoffee.com/j19t13n" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 
