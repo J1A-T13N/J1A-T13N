@@ -18,7 +18,7 @@
 
 | Name | Stars | Latest Version | HACS support | Last commit |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| ~~[Taiwan Real-time Earthquake Monitoring for HA](https://github.com/J1A-T13N/ha-trem)~~ <p>(因授權問題，暫停開放使用)</p>| ![stars_badge](https://img.shields.io/github/stars/J1A-T13N/ha-trem?label=) | [![release_badge](https://img.shields.io/github/v/release/J1A-T13N/ha-trem?label=)](https://github.com/J1A-T13N/ha-trem/releases/latest) | [![HACS Default][hacs_custom_shield]][hacs_custom] | [![Last commit](https://img.shields.io/github/last-commit/J1A-T13N/ha-trem?label=)](https://github.com/J1A-T13N/ha-trem) |
+| [Taiwan Real-time Earthquake Monitoring for HA](https://github.com/gaojiafamily/ha-trem)| ![stars_badge](https://img.shields.io/github/stars/J1A-T13N/ha-trem?label=) | [![release_badge](https://img.shields.io/github/v/release/J1A-T13N/ha-trem?label=)](https://github.com/J1A-T13N/ha-trem/releases/latest) | [![HACS Default][hacs_custom_shield]][hacs_custom] | [![Last commit](https://img.shields.io/github/last-commit/J1A-T13N/ha-trem?label=)](https://github.com/J1A-T13N/ha-trem) |
 
 ## Contribute repository
 | Name | Change | Last PR |
